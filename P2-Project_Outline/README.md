@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Track My Eats is a way for users to document which restaurants they've eaten at over a selected time period. Similar to Spotify, where users receive summaries of what they listened to, users in Track My Eats can review their year, month, etc. of culinary adventures, which ones would they eat at again, which missed the mark, and how well their tastes compared to Yelpers. Summaries can also be available by location, type of food, rating, experience type. Private and public settings help those who just want their own data to themselves and those who like to share with friends be able to share.
+
 ### Features
-Include Features here
+1) Location tracking: a way to map which restaurants users ate at.
+2) Flexible Summary: A way for users to summarize their eating trips based on a variety of filtering options, including time period.
+3) Yelp restaurant comparison: A way for users to compare their experience to others on Yelp.
+4) User Profile: a way for users to indicate their settings. Private or shareable. Yelp comparison would be available on the shareable version.
+
 ### Technologies
-Include Technologies here
+Yelp API
+Google Maps API
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+CSS
+Javascript
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Integration with APIs to use Yelp and Google Maps API, inclusion of more javascript than in recent assignments
+
 ### Project Tracker
 Link to your Trello board here
