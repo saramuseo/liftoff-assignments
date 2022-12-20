@@ -7,28 +7,39 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Track My Eats is a way for users to document which restaurants they've eaten at over a selected time period. Similar to Spotify, where users receive summaries of what they listened to, users in Track My Eats can review their year, month, etc. of culinary adventures, which ones would they eat at again, which missed the mark, and how well their tastes compared to Yelpers. Summaries can also be available by location, type of food, rating, experience type. Private and public settings help those who just want their own data to themselves and those who like to share with friends be able to share.
+A way for users to track where they eat over different time periods, search Yelp based on location & type of food, and rate the restaurants
 
 ### Features
-1) Location tracking: a way to map which restaurants users ate at.
-2) Flexible Summary: A way for users to summarize their eating trips based on a variety of filtering options, including time period.
-3) Yelp restaurant comparison: A way for users to compare their experience to others on Yelp.
-4) User Profile: a way for users to indicate their settings. Private or shareable. Yelp comparison would be available on the shareable version.
+1.	Mouseover Tooltip - shows small review (Rating/feedback system)
+2.	Register - private user accounts 
+3.	User authentication & authorization
+4.	User validation & Password hashing
+5.	Filtered view: Filtering by time - by month/last 30 days, 6 months, year to date & Filtering by location - zip code
+6.	Testing
+7.	Search for restaurant 
+8.	Add a restaurant by name or type
+9.	Unique id
+10.	One to Many relationships - one user to many restaurants
+
 
 ### Technologies
 Yelp API
-Google Maps API
+MySQL Workbench - Database connectivity
+SpringBoot
+ThymeLeaf
 Java
-Spring Boot
-MySQL
 Hibernate
-Thymeleaf templates
+JavaScript
 CSS
-Javascript
+
 
 
 ### What I'll Have to Learn
-Integration with APIs to use Yelp and Google Maps API, inclusion of more javascript than in recent assignments
+Connect Yelp API to IntelliJ 
+JavaScript refresher
+Responsive Design
+GitHub - merging/branching
+CSS
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/vwfaHeoY/projectscrumboard
